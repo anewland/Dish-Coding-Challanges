@@ -9,4 +9,4 @@
 `99 Bottles of Beer` [Challenge](https://code.golf/99-bottles-of-beer#rust) | [Solution]()
 
 ## Challenges
-2022.09.09 - [Slot Machines](20220909.md)
+`Slot Machines - 2022.09.09` [Challenge](20220909.md) | [Solution]()
